@@ -1,0 +1,2 @@
+39  41.5  #info_map_reference
+40  40.5    #info_first_city

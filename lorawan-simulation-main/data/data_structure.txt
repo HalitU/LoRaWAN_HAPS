@@ -1,0 +1,4 @@
+There are several different data files for different purposes
+- Each gateway has its own path across the cities
+- Each city should have same coordinates for every gateway for now
+- Each city should have a unique building details file

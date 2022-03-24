@@ -1,0 +1,4 @@
+28  41.5  #info_map_reference
+32  40.5    #info_first_city
+31  39.5    #info_second_city
+29  40  #info_third_city
